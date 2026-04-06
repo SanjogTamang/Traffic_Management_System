@@ -7,3 +7,5 @@
 
 #ignoring output file
 *.o
+#ignorin csv file that will be created for file handling
+*.csv
